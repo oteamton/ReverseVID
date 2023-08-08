@@ -1,1 +1,1 @@
-# super-guacamole-CV
+# Self learning
